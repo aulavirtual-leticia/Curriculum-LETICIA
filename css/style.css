@@ -1,0 +1,50 @@
+img{
+    width: 140px;
+    height: 146.37px;
+    top: 20.91px;
+    left: 670px;
+    gap: 0px;
+    opacity: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block; /* centra la img*/
+}
+h1{
+    width: 1440px; /*ancho*/
+    height: 29.87px; /*alto*/
+    top: 202.13px; /*superior*/
+    left: 213px; /*izquierda*/
+    gap: 0px; /*espacio*/
+    opacity: 0px; /*opacidad*/
+    font-family: Times New Roman; /*fuente*/
+    font-size: 35px; /*tamaño de fuente*/
+    font-weight: 700; /*peso  de la fuente*/
+    line-height: 29.64px; /*altura de línea*/
+    text-align: center; /*alinesr texto al centro*/
+    color: #b30779; /*fondo del texto*/
+    background: #eba5a5; /*color fondo de texto*/
+    display: block; /*pantalla bloque*/
+    margin-left: auto; /*margen derecho*/
+    margin-right: auto; /*margen izquierdo*/
+}
+h2{
+    color: #b30779;
+    width: 1440px;
+    height: 30px;
+    top: 376px;
+    gap: 0px;
+    opacity: 0px;
+    background: #eba5a5;
+}
+footer h2{
+    background: #eba5a5;
+    color: #b30779;
+    font-size: 15px;
+    text-align: center;
+    }
+/* NO FUNCIONA ASÍ*/
+ .img{
+        width: 20px; /* Ajusta el tamaño según tus necesidades */
+        height: auto; /* Mantiene la proporción de la imagen */
+        margin-block: 10px;
+      }
